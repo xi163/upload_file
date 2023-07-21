@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/xi123/libgo/logs"
-	"github.com/cwloo/uploader/src/global"
-	"github.com/cwloo/uploader/src/global/httpsrv"
+	"github.com/xi123/uploader/src/global"
+	"github.com/xi123/uploader/src/global/httpsrv"
 )
 
 func handlerCacheFileJsonReq(body []byte) (*global.DelResp, bool) {

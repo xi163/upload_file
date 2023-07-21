@@ -6,7 +6,7 @@ import (
 	"github.com/xi123/libgo/core/base/sys/cmd"
 	"github.com/xi123/libgo/core/base/task"
 	"github.com/xi123/libgo/core/cb"
-	"github.com/cwloo/uploader/src/config"
+	"github.com/xi123/uploader/src/config"
 )
 
 func ReadConfig() {

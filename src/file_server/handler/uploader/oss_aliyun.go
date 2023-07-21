@@ -10,9 +10,9 @@ import (
 
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 	"github.com/xi123/libgo/logs"
-	"github.com/cwloo/uploader/src/config"
-	"github.com/cwloo/uploader/src/global"
-	"github.com/cwloo/uploader/src/global/tg_bot"
+	"github.com/xi123/uploader/src/config"
+	"github.com/xi123/uploader/src/global"
+	"github.com/xi123/uploader/src/global/tg_bot"
 )
 
 var (

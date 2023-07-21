@@ -7,9 +7,9 @@ import (
 	"github.com/xi123/libgo/core/net/conn"
 	"github.com/xi123/libgo/logs"
 	"github.com/xi123/libgo/utils"
-	"github.com/cwloo/uploader/src/config"
-	"github.com/cwloo/uploader/src/global/httpsrv"
-	"github.com/cwloo/uploader/src/loader/handler"
+	"github.com/xi123/uploader/src/config"
+	"github.com/xi123/uploader/src/global/httpsrv"
+	"github.com/xi123/uploader/src/loader/handler"
 )
 
 // <summary>

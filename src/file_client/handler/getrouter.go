@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/xi123/libgo/logs"
-	"github.com/cwloo/uploader/src/config"
-	"github.com/cwloo/uploader/src/global"
+	"github.com/xi123/uploader/src/config"
+	"github.com/xi123/uploader/src/global"
 )
 
 func GetRouter(client *http.Client, md5 string) string {

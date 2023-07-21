@@ -7,18 +7,18 @@ import (
 	"strconv"
 	"strings"
 
-	config "github.com/cwloo/uploader/src/config"
-	"github.com/cwloo/uploader/src/file_server/handler"
-	"github.com/cwloo/uploader/src/global"
+	config "github.com/xi123/uploader/src/config"
+	"github.com/xi123/uploader/src/file_server/handler"
+	"github.com/xi123/uploader/src/global"
 
 	"github.com/xi123/libgo/core/base/sys/cmd"
 	"github.com/xi123/libgo/core/net/conn"
 	"github.com/xi123/libgo/logs"
 	"github.com/xi123/libgo/utils"
-	getcdv3 "github.com/cwloo/grpc-etcdv3/getcdv3"
-	pb_getcdv3 "github.com/cwloo/grpc-etcdv3/getcdv3/proto"
-	pb_file "github.com/cwloo/uploader/proto/file"
-	pb_public "github.com/cwloo/uploader/proto/public"
+	getcdv3 "github.com/xi123/grpc-etcdv3/getcdv3"
+	pb_getcdv3 "github.com/xi123/grpc-etcdv3/getcdv3/proto"
+	pb_file "github.com/xi123/uploader/proto/file"
+	pb_public "github.com/xi123/uploader/proto/public"
 	"google.golang.org/grpc"
 )
 

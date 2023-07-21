@@ -1,6 +1,6 @@
 package global
 
-import "github.com/cwloo/uploader/src/global/httpsrv"
+import "github.com/xi123/uploader/src/global/httpsrv"
 
 // <summary>
 // HTTPServer

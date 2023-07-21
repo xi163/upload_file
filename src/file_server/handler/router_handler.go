@@ -4,9 +4,9 @@ import (
 	"os"
 
 	"github.com/xi123/libgo/core/base/sys/cmd"
-	pb_public "github.com/cwloo/uploader/proto/public"
-	"github.com/cwloo/uploader/src/config"
-	"github.com/cwloo/uploader/src/global"
+	pb_public "github.com/xi123/uploader/proto/public"
+	"github.com/xi123/uploader/src/config"
+	"github.com/xi123/uploader/src/global"
 )
 
 func QueryRouter(md5 string) (*pb_public.RouterResp, error) {

@@ -7,10 +7,10 @@ import (
 	"github.com/xi123/libgo/core/net/conn"
 	"github.com/xi123/libgo/logs"
 	"github.com/xi123/libgo/utils"
-	"github.com/cwloo/uploader/src/config"
-	"github.com/cwloo/uploader/src/file_server/handler"
-	"github.com/cwloo/uploader/src/file_server/handler/uploader"
-	"github.com/cwloo/uploader/src/global/httpsrv"
+	"github.com/xi123/uploader/src/config"
+	"github.com/xi123/uploader/src/file_server/handler"
+	"github.com/xi123/uploader/src/file_server/handler/uploader"
+	"github.com/xi123/uploader/src/global/httpsrv"
 )
 
 // <summary>

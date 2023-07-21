@@ -9,7 +9,7 @@ import (
 	"github.com/xi123/libgo/core/base/sys"
 	"github.com/xi123/libgo/core/base/sys/cmd"
 	"github.com/xi123/libgo/logs"
-	"github.com/cwloo/uploader/src/config"
+	"github.com/xi123/uploader/src/config"
 )
 
 // <summary>

@@ -12,10 +12,10 @@ import (
 	"github.com/xi123/libgo/core/base/sys/cmd"
 	"github.com/xi123/libgo/logs"
 	"github.com/xi123/libgo/utils"
-	"github.com/cwloo/grpc-etcdv3/getcdv3"
-	"github.com/cwloo/grpc-etcdv3/getcdv3/gRPCs"
-	pb_public "github.com/cwloo/uploader/proto/public"
-	"github.com/cwloo/uploader/src/config"
+	"github.com/xi123/grpc-etcdv3/getcdv3"
+	"github.com/xi123/grpc-etcdv3/getcdv3/gRPCs"
+	pb_public "github.com/xi123/uploader/proto/public"
+	"github.com/xi123/uploader/src/config"
 )
 
 func List() {
