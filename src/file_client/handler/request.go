@@ -13,10 +13,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/config"
-	"github.com/xi123/uploader/src/global"
-	"github.com/xi123/uploader/src/global/httpcli"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/config"
+	"github.com/cwloo/uploader/src/global"
+	"github.com/cwloo/uploader/src/global/httpcli"
 )
 
 func Upload() {

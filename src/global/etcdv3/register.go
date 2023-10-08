@@ -6,7 +6,7 @@ import (
 	"time"
 
 	_ "github.com/coreos/etcd/etcdserver/api/v3rpc/rpctypes"
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 	clientv3 "go.etcd.io/etcd/client/v3"
 
 	"github.com/pkg/errors"

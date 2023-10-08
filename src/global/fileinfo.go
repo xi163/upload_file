@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 )
 
 var FileInfos = NewMd5ToFileInfo()

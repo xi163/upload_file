@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/config"
-	"github.com/xi123/uploader/src/global"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/config"
+	"github.com/cwloo/uploader/src/global"
 )
 
 func UpdateCfg(req *global.UpdateCfgReq) (*global.UpdateCfgResp, bool) {

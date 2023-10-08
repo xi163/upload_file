@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/global"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/global"
 )
 
 func setServiceName(cb func(*IniConfig) string, c *IniConfig) {

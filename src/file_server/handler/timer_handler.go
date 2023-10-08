@@ -3,10 +3,10 @@ package handler
 import (
 	"time"
 
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/core/base/task"
-	"github.com/xi123/libgo/core/cb"
-	"github.com/xi123/uploader/src/config"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/core/base/task"
+	"github.com/cwloo/gonet/core/cb"
+	"github.com/cwloo/uploader/src/config"
 )
 
 func ReadConfig() {

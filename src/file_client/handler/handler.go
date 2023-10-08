@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/libgo/utils"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/gonet/utils"
 )
 
 func parseargs() (id int, filelist []string) {

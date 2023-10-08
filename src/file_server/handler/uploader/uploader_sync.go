@@ -9,12 +9,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/config"
-	"github.com/xi123/uploader/src/file_server/handler"
-	"github.com/xi123/uploader/src/global"
-	"github.com/xi123/uploader/src/global/httpsrv"
-	"github.com/xi123/uploader/src/global/tg_bot"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/config"
+	"github.com/cwloo/uploader/src/file_server/handler"
+	"github.com/cwloo/uploader/src/global"
+	"github.com/cwloo/uploader/src/global/httpsrv"
+	"github.com/cwloo/uploader/src/global/tg_bot"
 )
 
 var (

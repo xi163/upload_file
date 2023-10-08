@@ -5,11 +5,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xi123/libgo/core/base/sub"
-	"github.com/xi123/libgo/core/base/sys"
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/config"
+	"github.com/cwloo/gonet/core/base/sub"
+	"github.com/cwloo/gonet/core/base/sys"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/config"
 )
 
 // <summary>

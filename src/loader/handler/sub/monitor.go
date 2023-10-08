@@ -7,15 +7,15 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xi123/libgo/core/base/sub"
-	"github.com/xi123/libgo/core/base/sys"
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/libgo/utils"
-	"github.com/xi123/grpc-etcdv3/getcdv3"
-	"github.com/xi123/grpc-etcdv3/getcdv3/gRPCs"
-	pb_public "github.com/xi123/uploader/proto/public"
-	"github.com/xi123/uploader/src/config"
+	"github.com/cwloo/gonet/core/base/sub"
+	"github.com/cwloo/gonet/core/base/sys"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/gonet/utils"
+	"github.com/cwloo/grpc-etcdv3/getcdv3"
+	"github.com/cwloo/grpc-etcdv3/getcdv3/gRPCs"
+	pb_public "github.com/cwloo/uploader/proto/public"
+	"github.com/cwloo/uploader/src/config"
 )
 
 func List() {

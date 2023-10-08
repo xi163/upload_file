@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	config "github.com/xi123/uploader/src/config"
+	config "github.com/cwloo/uploader/src/config"
 
 	"github.com/gin-gonic/gin"
 	"github.com/prometheus/client_golang/prometheus"

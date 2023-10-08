@@ -3,8 +3,8 @@ package kafka
 import (
 	"sync"
 
-	"github.com/xi123/libgo/logs"
-	config "github.com/xi123/uploader/src/config"
+	"github.com/cwloo/gonet/logs"
+	config "github.com/cwloo/uploader/src/config"
 
 	"github.com/Shopify/sarama"
 )

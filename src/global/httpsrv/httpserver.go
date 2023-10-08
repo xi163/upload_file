@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 )
 
 type Handler func(http.ResponseWriter, *http.Request)

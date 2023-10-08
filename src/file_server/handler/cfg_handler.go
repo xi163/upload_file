@@ -7,9 +7,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/global"
-	"github.com/xi123/uploader/src/global/httpsrv"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/global"
+	"github.com/cwloo/uploader/src/global/httpsrv"
 )
 
 func handlerUpdateCfgJsonReq(body []byte) (*global.UpdateCfgResp, bool) {

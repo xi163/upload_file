@@ -7,13 +7,13 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/core/net/conn"
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/libgo/utils"
-	"github.com/xi123/grpc-etcdv3/getcdv3"
-	"github.com/xi123/uploader/src/global"
-	"github.com/xi123/uploader/src/global/tg_bot"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/core/net/conn"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/gonet/utils"
+	"github.com/cwloo/grpc-etcdv3/getcdv3"
+	"github.com/cwloo/uploader/src/global"
+	"github.com/cwloo/uploader/src/global/tg_bot"
 )
 
 var (

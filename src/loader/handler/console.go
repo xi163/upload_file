@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xi123/libgo/core/base/sub"
-	"github.com/xi123/libgo/utils"
-	handler_sub "github.com/xi123/uploader/src/loader/handler/sub"
+	"github.com/cwloo/gonet/core/base/sub"
+	"github.com/cwloo/gonet/utils"
+	handler_sub "github.com/cwloo/uploader/src/loader/handler/sub"
 )
 
 func OnInput(str string) int {

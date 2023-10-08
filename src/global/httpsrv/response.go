@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 )
 
 func SetResponseHeader(w http.ResponseWriter, r *http.Request) {

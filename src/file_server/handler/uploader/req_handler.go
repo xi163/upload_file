@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/config"
-	"github.com/xi123/uploader/src/global"
-	"github.com/xi123/uploader/src/global/httpsrv"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/config"
+	"github.com/cwloo/uploader/src/global"
+	"github.com/cwloo/uploader/src/global/httpsrv"
 )
 
 func UploadReq(w http.ResponseWriter, r *http.Request) {

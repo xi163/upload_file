@@ -1,6 +1,6 @@
 package global
 
-import "github.com/xi123/libgo/core/net/tcp/tcpserver"
+import "github.com/cwloo/gonet/core/net/tcp/tcpserver"
 
 // <summary>
 // TCPServer

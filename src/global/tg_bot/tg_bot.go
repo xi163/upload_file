@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

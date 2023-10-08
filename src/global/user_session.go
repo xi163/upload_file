@@ -3,7 +3,7 @@ package global
 import (
 	"sync"
 
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 )
 
 var Uploaders = NewSessionToHandler()

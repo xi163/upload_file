@@ -3,9 +3,9 @@ package uploader
 import (
 	"time"
 
-	"github.com/xi123/libgo/core/base/cc"
-	"github.com/xi123/libgo/core/base/run"
-	"github.com/xi123/libgo/core/base/timer"
+	"github.com/cwloo/gonet/core/base/cc"
+	"github.com/cwloo/gonet/core/base/run"
+	"github.com/cwloo/gonet/core/base/timer"
 )
 
 // <summary>

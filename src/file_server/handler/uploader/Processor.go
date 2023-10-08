@@ -5,11 +5,11 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/xi123/libgo/core/base/cc"
-	"github.com/xi123/libgo/core/base/mq"
-	"github.com/xi123/libgo/core/base/run"
-	"github.com/xi123/libgo/core/cb"
-	"github.com/xi123/libgo/utils"
+	"github.com/cwloo/gonet/core/base/cc"
+	"github.com/cwloo/gonet/core/base/mq"
+	"github.com/cwloo/gonet/core/base/run"
+	"github.com/cwloo/gonet/core/cb"
+	"github.com/cwloo/gonet/utils"
 )
 
 // <summary>

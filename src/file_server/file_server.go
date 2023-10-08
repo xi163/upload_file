@@ -4,14 +4,14 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/core/base/task"
-	"github.com/xi123/libgo/core/cb"
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/uploader/src/config"
-	"github.com/xi123/uploader/src/file_server/handler"
-	file_server "github.com/xi123/uploader/src/file_server/server"
-	"github.com/xi123/uploader/src/global"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/core/base/task"
+	"github.com/cwloo/gonet/core/cb"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/uploader/src/config"
+	"github.com/cwloo/uploader/src/file_server/handler"
+	file_server "github.com/cwloo/uploader/src/file_server/server"
+	"github.com/cwloo/uploader/src/global"
 )
 
 func init() {

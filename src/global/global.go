@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xi123/libgo/core/base/cc"
-	pb_public "github.com/xi123/uploader/proto/public"
+	"github.com/cwloo/gonet/core/base/cc"
+	pb_public "github.com/cwloo/uploader/proto/public"
 )
 
 var (

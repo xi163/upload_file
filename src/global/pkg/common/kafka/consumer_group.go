@@ -10,7 +10,7 @@ import (
 	"context"
 
 	"github.com/Shopify/sarama"
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 )
 
 type MConsumerGroup struct {

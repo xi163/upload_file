@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/libgo/utils"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/gonet/utils"
 )
 
 type NewUploader func(bool, string) Uploader

@@ -3,7 +3,7 @@ package loader
 import (
 	"sync"
 
-	"github.com/xi123/uploader/src/global"
+	"github.com/cwloo/uploader/src/global"
 )
 
 var (

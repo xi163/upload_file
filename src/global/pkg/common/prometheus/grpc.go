@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xi123/libgo/logs"
+	"github.com/cwloo/gonet/logs"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/peer"
 )

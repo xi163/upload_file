@@ -3,13 +3,13 @@ package http_gate
 import (
 	"net/http"
 
-	"github.com/xi123/libgo/core/base/sys/cmd"
-	"github.com/xi123/libgo/core/net/conn"
-	"github.com/xi123/libgo/logs"
-	"github.com/xi123/libgo/utils"
-	"github.com/xi123/uploader/src/config"
-	"github.com/xi123/uploader/src/global/httpsrv"
-	"github.com/xi123/uploader/src/http_gate/handler"
+	"github.com/cwloo/gonet/core/base/sys/cmd"
+	"github.com/cwloo/gonet/core/net/conn"
+	"github.com/cwloo/gonet/logs"
+	"github.com/cwloo/gonet/utils"
+	"github.com/cwloo/uploader/src/config"
+	"github.com/cwloo/uploader/src/global/httpsrv"
+	"github.com/cwloo/uploader/src/http_gate/handler"
 )
 
 // <summary>
